@@ -6,7 +6,9 @@ Instructions
 ------------
 
 Open Visual Studio Code, Eclipse, or any other text editor that is able to run Java files
+
 Go to File -> Open Folder
+
 Select AnimationProject.java and press Run
 
 ![ea3](https://github.com/eason-m-a/9th-grade-project/assets/44955296/c56342d6-a489-4b6e-8c74-1a3ccf5cee42)
